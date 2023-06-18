@@ -1,0 +1,10 @@
+body {
+    /* background: #eee; */
+    /* background-color: #000000;
+  background-image: url("https://www.transparenttextures.com/patterns/dark-denim-3.png"); */
+  background-color: #ffffff;
+  /* background-image: url("https://wallpaperaccess.com/full/180289.jpg"); */
+  /* background-image: url("https://www.transparenttextures.com/patterns/batthern.png"); */
+  /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+      padding: 0 16px;
+  }
